@@ -20,7 +20,7 @@ export default function Projects() {
               Hello, My name is oluwatobiloba samuel{" "}
             </h1>
             <h3 className="capitalize text-rose-400">
-              i'm{" "}
+              i&apos;m{" "}
               <span className="typing text-green-500 dark:text-green-700">
                 Front end developer
               </span>
